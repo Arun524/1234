@@ -1,0 +1,18 @@
+@charset "ISO-8859-1";
+body {
+  background: #999;
+  padding: 40px;
+  font-family: "Open Sans Condensed", sans-serif;
+  align:left;
+}
+#bg {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: url(vpaybackground.png) no-repeat center center fixed;
+  background-size: cover;
+  align:left;
+  -webkit-filter: blur(-25px);    
+}

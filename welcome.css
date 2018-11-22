@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+.wrapper{
+    position: relative;
+    height: 300px;
+    width: 300px;
+}
+
+.wrapper img {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
